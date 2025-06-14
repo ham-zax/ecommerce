@@ -21,6 +21,9 @@
 .env.production.local
 .eslintcache
 
+# videos
+public/assets/videos
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
